@@ -1,0 +1,33 @@
+# ====================================
+# Python build and cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Mac system files
+.DS_Store
+
+# VS Code project settings (optional)
+.vscode/
+
+# Virtual environments
+venv/
+env/
+
+# Model files
+models/*.pkl
+
+# Data files
+data/*.csv
+
+# Logs and temp files
+*.log
+*.tmp
+
+# OS/Editor backups
+*.swp
+*.bak
+*.old
